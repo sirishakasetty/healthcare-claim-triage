@@ -2,8 +2,8 @@ import pandas as pd
 
 # Load triage results from CSV
 def load_data():
-    chunk_df = pd.read_csv(r"C:\Users\skase1\OneDrive - University of New Haven\Documents\Healthcare claims and prior auth\chunk_level_triage.csv")
-    subject_df = pd.read_csv(r"C:\Users\skase1\OneDrive - University of New Haven\Documents\Healthcare claims and prior auth\final_subject_level_decision.csv")  # ✅ Correct CSV!
+    chunk_df = pd.read_csv("chunk_level_triage.csv")
+    subject_df = pd.read_csv("final_subject_level_decision.csv") 
     return chunk_df, subject_df
 
 # Get triage decision for a subject_id
