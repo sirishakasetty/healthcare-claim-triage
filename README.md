@@ -68,6 +68,12 @@ Install with pip:
 pip install -r requirements.txt
 ```
 
+## 🚀 Live Demo
+
+Try the app here 👉 [Healthcare Claim Triage App on Streamlit] ( https://healthcare-claim-triage-5o9xbwycfykbcp8j3fsnt3.streamlit.app/ )
+
+> Upload your claim CSVs and interact with the AI agent in real-time!
+
 
 🧠 Built with LangChain, pandas, and Streamlit  
 ⚕️ Inspired by real-world medical triage needs
