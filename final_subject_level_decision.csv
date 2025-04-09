@@ -1,0 +1,101 @@
+subject_id,Approved,Needs Review,Rejected,final_decision
+10000032,0,3,0,Needs Review
+10001217,0,3,0,Needs Review
+10001725,0,3,0,Needs Review
+10002428,0,0,6,Rejected
+10002495,0,0,3,Rejected
+10002930,0,18,0,Needs Review
+10003046,0,3,0,Needs Review
+10003400,0,0,3,Rejected
+10004235,0,3,0,Needs Review
+10004422,0,3,0,Needs Review
+10004457,0,3,3,Needs Review
+10004720,0,0,3,Rejected
+10004733,0,3,0,Needs Review
+10005348,0,3,0,Needs Review
+10005817,0,0,3,Rejected
+10005866,0,12,6,Needs Review
+10005909,0,3,0,Needs Review
+10006053,0,3,0,Needs Review
+10006580,0,3,0,Needs Review
+10007058,0,3,0,Needs Review
+10007795,0,3,0,Needs Review
+10007818,0,0,3,Rejected
+10007928,0,3,0,Needs Review
+10008287,0,3,0,Needs Review
+10008454,0,3,0,Needs Review
+10009035,0,3,0,Needs Review
+10009049,0,3,0,Needs Review
+10009628,0,3,0,Needs Review
+10010471,0,3,3,Needs Review
+10010867,0,6,3,Needs Review
+10011398,0,3,0,Needs Review
+10012552,0,3,0,Needs Review
+10012853,0,6,6,Needs Review
+10013049,0,3,0,Needs Review
+10014078,0,3,0,Needs Review
+10014354,3,9,48,Approved
+10014729,0,3,0,Needs Review
+10015272,0,3,0,Needs Review
+10015860,3,3,15,Approved
+10015931,0,0,9,Rejected
+10016150,0,3,0,Needs Review
+10016742,3,0,6,Approved
+10016810,0,3,0,Needs Review
+10017492,0,3,0,Needs Review
+10018081,0,3,0,Needs Review
+10018328,0,3,3,Needs Review
+10018423,0,3,0,Needs Review
+10018501,0,3,0,Needs Review
+10018845,0,3,0,Needs Review
+10019003,0,3,18,Needs Review
+10019172,0,3,0,Needs Review
+10019385,0,6,0,Needs Review
+10019568,0,3,0,Needs Review
+10019777,0,3,0,Needs Review
+10019917,0,3,0,Needs Review
+10020187,0,6,0,Needs Review
+10020306,3,0,3,Approved
+10020640,0,3,0,Needs Review
+10020740,0,3,0,Needs Review
+10020786,0,3,0,Needs Review
+10020944,0,3,0,Needs Review
+10021118,0,3,0,Needs Review
+10021312,0,6,0,Needs Review
+10021487,0,3,0,Needs Review
+10021666,0,3,0,Needs Review
+10021938,0,3,0,Needs Review
+10022017,0,0,3,Rejected
+10022041,0,3,0,Needs Review
+10022281,0,3,0,Needs Review
+10022880,0,3,0,Needs Review
+10023117,0,0,9,Rejected
+10023239,6,0,0,Approved
+10023771,0,3,0,Needs Review
+10024043,0,3,0,Needs Review
+10025463,0,3,0,Needs Review
+10025612,0,3,0,Needs Review
+10026255,0,3,0,Needs Review
+10026354,0,3,0,Needs Review
+10026406,0,3,0,Needs Review
+10027445,0,3,0,Needs Review
+10027602,0,3,0,Needs Review
+10029291,0,0,3,Rejected
+10029484,0,3,0,Needs Review
+10031404,0,3,0,Needs Review
+10031757,0,3,0,Needs Review
+10032725,0,3,0,Needs Review
+10035185,0,3,0,Needs Review
+10035631,3,0,6,Approved
+10036156,0,3,0,Needs Review
+10037861,0,0,3,Rejected
+10037928,3,3,0,Approved
+10037975,0,3,0,Needs Review
+10038081,0,3,0,Needs Review
+10038933,0,3,0,Needs Review
+10038992,0,3,0,Needs Review
+10038999,0,6,0,Needs Review
+10039708,0,12,15,Needs Review
+10039831,0,3,0,Needs Review
+10039997,0,3,3,Needs Review
+10040025,0,0,18,Rejected
